@@ -11,7 +11,7 @@
 </head>
 <body>
 
-<h1>Калькулятор</h1>
+<h1>Расчитать проценты</h1>
 
 <? require $_SERVER['DOCUMENT_ROOT'] . "/calc_invest/form.php"; ?>
 <div>
